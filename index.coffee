@@ -1,6 +1,3 @@
-Buffer  = require('buffer').Buffer
-crypto = require "crypto"
-
 random = ->
   Math.random()
 
